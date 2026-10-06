@@ -1,0 +1,7 @@
+playwright
+playwright-stealth
+pandas
+streamlit
+requests
+beautifulsoup4
+lxml
